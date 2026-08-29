@@ -1,13 +1,11 @@
-console.log("Luis")
 
-// --- VARIABLES ---
 var texto = "untexto";
-var enteros = 55 + 7 + 7; // Resultado: 69
+var enteros = 55 + 7 + 7; 
 let booleano = true;
-let variableNula = null; // Corregido de "let undefined | null"
+let variableNula = null; 
 
 // --- ARRAYS ---
-var lista = ["falosa", "bueno", "chévere"]; // Índices: 0, 1, 2
+var lista = ["falosa", "bueno", "chévere"]; 
 var listanum = [5, 7, 23, 8];
 var combinado = [5, "millos", true];
 var objetos = [{"nombre": "daniel"}];
